@@ -1,5 +1,5 @@
 {
-    "name": "laraveldaily/aniltime",
+    "name": "anillaravel/aniltime",
     "description": "Demo-package to show time",
     "require": {
         "aniltime": "0.11",
